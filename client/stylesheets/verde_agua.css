@@ -1,0 +1,12 @@
+.navbarLogo{
+  width: 150px;
+}
+
+.navbar-font{
+  color: #fff !important;
+  text-transform: uppercase;
+  font-weight: bolder;
+}
+.site-title{
+  width: 100%;
+}
